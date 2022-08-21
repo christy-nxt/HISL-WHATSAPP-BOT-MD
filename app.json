@@ -2,7 +2,7 @@
   "name": "HISL-Bot-MD",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/whiteshadowofficial/HISL-WHATSAPP-BOT-MD",
-  "logo": "https://telegra.ph/file/611fcbc5979c81afbf61f.jpg",
+  "logo": "https://telegra.ph/file/10028f29c6f46ba05e165.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
